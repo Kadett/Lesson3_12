@@ -40,7 +40,5 @@ int main() {
     bool res = t1.search(17);
     std::cout << (res ? "Value found" : "Value not found");
 
-
-
     return 0;
 }
